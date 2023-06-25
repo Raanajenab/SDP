@@ -145,7 +145,7 @@ function scrollHeader() {
 }
 window.addEventListener('scroll', scrollHeader);
 
-//show scroll up                      okiiiiiiiiiiiiieeeeeeeeeeeeee
+//show scroll up                      
 function scrollUp() {
   const scrollUp = document.getElementById('scroll-up');
 

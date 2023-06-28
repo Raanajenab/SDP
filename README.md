@@ -5,7 +5,7 @@
 
 <h3 align="center">Portfolio website</h3>
 <h3 align="center"><img src='https://github.com/Raanajenab/SDP/assets/118533743/25d0a945-6fc5-497a-8260-1f6af2df9f7d' width="400" height="200" align="center" /></h3>
-![Untitled](https://github.com/Raanajenab/SDP/assets/118533743/25d0a945-6fc5-497a-8260-1f6af2df9f7d)
+
 
 
 <h3 align="center">Languages and Tools:</h3>
